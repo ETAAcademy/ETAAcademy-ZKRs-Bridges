@@ -9,7 +9,7 @@ This GitHub repository aims to improve the security of ZKRs(Zero-Knowledge Rollu
 
 ## References
 
-### Zk-Rollups
+### Zk-L2
 - [Matter-Labs](https://github.com/matter-labs)
 - [zkSync](https://github.com/matter-labs/zksync)
 - [StarkNet](https://github.com/starkware-libs)
