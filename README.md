@@ -10,11 +10,10 @@ This GitHub repository aims to improve the security of ZKRs(Zero-Knowledge Rollu
 ## References
 
 ### Zk-Rollups
-Aztec: Scalable Privacy on Ethereum
-[Matter-Labs](https://github.com/matter-labs)
-[zkSync](https://github.com/matter-labs/zksync)
-[StarkNet](https://github.com/starkware-libs)
-[Polygon](https://github.com/0xpolygonhermez)
+- [Matter-Labs](https://github.com/matter-labs)
+- [zkSync](https://github.com/matter-labs/zksync)
+- [StarkNet](https://github.com/starkware-libs)
+- [Polygon](https://github.com/0xpolygonhermez)
 
 ### Bridge
 
