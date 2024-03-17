@@ -10,6 +10,7 @@ This GitHub repository aims to improve the security of ZKRs(Zero-Knowledge Rollu
 ## References
 
 ### Zk-L2
+
 - [Matter-Labs](https://github.com/matter-labs)
 - [zkSync](https://github.com/matter-labs/zksync)
 - [StarkNet](https://github.com/starkware-libs)
@@ -34,4 +35,3 @@ This GitHub repository aims to improve the security of ZKRs(Zero-Knowledge Rollu
 - [Raze Network](https://www.raze.network/)
 - [Zendoo](https://www.horizen.io/zendoo/) and their [whitepaper](https://www.horizen.io/assets/files/Horizen-Sidechain-Zendoo-A_zk-SNARK-Verifiable-Cross-Chain-Transfer-Protocol.pdf)
 - [DarkFi](https://darkrenaissance.github.io/darkfi/architecture/overview.html)
-
