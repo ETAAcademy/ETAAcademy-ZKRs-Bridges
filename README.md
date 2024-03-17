@@ -19,7 +19,7 @@ This GitHub repository aims to improve the security of ZKRs(Zero-Knowledge Rollu
 
 - [=nil](https://nil.foundation)
 - [Succinct Labs](https://www.succinct.xyz/)
-- [Overeality) and their [paper](https://overeality.io/zkBridge.pdf)
+- [Overeality](https://overeality.io/home) and their [paper](https://overeality.io/zkBridge.pdf)
 
 ### Crosschain
 
