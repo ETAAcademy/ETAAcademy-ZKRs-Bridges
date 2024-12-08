@@ -1,6 +1,6 @@
 # In the Post-Merge World, What It Will Take To Bridge Blockchain To Transfer Your Money?
 
-Author: [Eta](https://twitter.com/pwhattie)
+Author: [Evta](https://twitter.com/pwhattie)
 
 The historic Merge is done and as the drastic increase in the number and size of different blockchain ecosystems, currently 118 public chains according to Blockchain Comparison, there is now more than ever a need for key infrastructure to connect them. Blockchains can only send messages in one direction and have no idea what’s happening off-chain. It’s likely, following The Merge, that Ethereum will play a larger role in the future of blockchain bridges.
 
